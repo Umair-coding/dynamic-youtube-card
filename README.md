@@ -37,11 +37,13 @@ A simple JavaScript project that dynamically creates a YouTube-style video card 
 ---
 
 ## 📁 Project Structure
+```text
 dynamic-youtube-card/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
 
 
 ---
